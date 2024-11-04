@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Dikshantsingh-official/Dikshantsingh-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a passionate Full Stack Web Developer, dedicated to creating dynamic and responsive web applications. With expertise in front-end technologies, I strive to deliver seamless and engaging user experiences. My commitment is to craft innovative solutions that captivate users and enhance satisfaction.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
